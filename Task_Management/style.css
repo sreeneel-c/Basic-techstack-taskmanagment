@@ -1,12 +1,12 @@
 header{
     size-adjust: 25px;
-    background-color:beige;
+    background-color:lightblue;
     padding:20px;
     /* padding-block:blue; */
 }
 footer{
     size-adjust:25px;
-    background-color:beige;
+    background-color:lightblue;
     padding:20px;
 }
 h1{
