@@ -48,4 +48,47 @@ nav{
     font-size: medium;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color:black;
+    width: 150px;
+    height: 110px;
+}
+button{
+    background-color: lightblue;
+    font-size: 18px;
+    border-radius: 8px;
+    padding: 10px;
+    cursor: pointer;
+   nav-up: auto;
+}
+
+.input-section{
+    text-align : center;
+    margin-top : 20px;
+    margin-bottom : 20px;
+    background-color: lightblue;
+    background-position: 20px;
+    padding : 20px;
+    border-radius : 12px;
+}
+input[type="text"]{
+    width : 400px;
+    height : 50px;
+    font-size : 20px;
+    border-radius : 8px;
+    padding : 10px;
+    border : 2px solid lightblue;
+    background :white;
+}
+
+.add-button{
+    align-self: auto;
+    background-color: lightblue;
+    font-size: 20px;
+    border-radius: 8px;
+    padding: 10px;
+    cursor: pointer;
+   nav-up: auto;
+   height: 50px;
+   margin-left: 10px;
+    width: 100px;
+    
 }
